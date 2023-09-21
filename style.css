@@ -11,9 +11,21 @@
 .bouton a:hover {
     background:url(bouton-noir2.png) no-repeat;
     }
+.bouton2 a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    vertical-align:middle;
+    background:url(bouton-noir.png) no-repeat;
+    color: #F6AA1C;
+    text-decoration:none;
+    float:left;
+    margin:2px;
+    }
+.bouton2 a:hover {
+    background:url(bouton-noir2.png) no-repeat;
+    }
 h2{
-    color: #F6AA1C ;
-}
-a{
     color: #F6AA1C ;
 }
