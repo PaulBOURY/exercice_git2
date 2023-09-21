@@ -1,0 +1,19 @@
+.bouton a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    vertical-align:middle;
+    background:url(bouton-noir.png) no-repeat;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    }
+.bouton a:hover {
+    background:url(bouton-noir2.png) no-repeat;
+    }
+h2{
+    color: #F6AA1C ;
+}
+a{
+    color: #F6AA1C ;
+}
